@@ -1,0 +1,6 @@
+Write a blog about objects and its internal representation in Javascript.
+
+
+Objects are important data type in java script. Object are different than primitive datatypes. primitive datatypes contains one value but object can hold many values in form of key.
+these keys can be variable or functions and are called property and methods,respectively, in the context of an object.
+Every object has some property associated with some value. These values can be accessed using these properties associated with them.

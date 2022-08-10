@@ -1,0 +1,16 @@
+Difference between HTTP1.1 vs HTTP2.
+
+HTTP Stand for Hyper Text Transfer Protocol. it is used for client server communication.
+by using http, user send a request to the server then server send a response to the user.
+
+
+HTTP 1.1
+1.It the used works on the textual format.
+2.It uses requests resource inlining for use getting multiple pages.
+3.It compress the data by itself.
+
+
+HTTP 2
+1.It works on the binary protocal.
+2.It uses push frame by server that collects all multiple pages.
+3.It uses hpack for data compression.
